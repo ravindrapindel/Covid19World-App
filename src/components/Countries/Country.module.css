@@ -1,0 +1,40 @@
+table {
+   
+    border-collapse: collapse;
+    width: 100%;
+}
+  
+table th {
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Kaisei Tokumin', serif;
+    color: white;
+    background-color: grey;
+}
+
+table td{
+    font-size: 18px;
+   color: white;
+}
+
+h6{
+    z-index: 0;
+    color: rgb(212, 32, 32)
+} 
+.Btn{
+    background-color:  #282c34;
+    color: white;
+    border: none;
+}
+
+.Btn:hover{
+    background-color: gray;
+}
+
+th:first-child, td:first-child
+{
+  position:sticky;
+  left:0px;
+  z-index: 100;
+  background-color: black;
+}

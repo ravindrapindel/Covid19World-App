@@ -1,0 +1,33 @@
+.AllCovid{
+    margin-top: 20px;
+    margin-bottom: 50px;
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center; 
+}
+
+.Confirmed{
+    font-size: 18px;
+    font-family: 'Kaisei Tokumin', serif;
+    text-align: center;
+    color: crimson;
+}
+.Active{
+    font-size: 18px;
+    font-family: 'Kaisei Tokumin', serif;
+    text-align: center;
+    color: rgb(32, 32, 221);
+}
+.Recovered{
+    font-size: 18px;
+    font-family: 'Kaisei Tokumin', serif;
+    text-align: center;
+    color: rgb(9, 230, 9);
+}
+.Deceased{
+    font-size: 18px;
+    font-family: 'Kaisei Tokumin', serif;
+    text-align: center;
+    color: grey;
+}
