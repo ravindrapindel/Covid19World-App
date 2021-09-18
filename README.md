@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# React Js COVID19World App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Build a Covid-19 world app to track the covid cases across the world in react js using Open Covid API.
+Final App-
+https://dreamy-mclean-71e738.netlify.app/
+
+Follow Below Instructions:
+Download starter-code file:
+Then do npm install, npm install --save google-map-react & npm start
 
 ## Available Scripts
 
