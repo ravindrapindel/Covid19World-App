@@ -4,8 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Build a Covid-19 world app to track the covid cases across the world in react js using Open Covid API.
 Final App-
-https://dreamy-mclean-71e738.netlify.app/
-
+https://jovial-keller-26cdf8.netlify.app/
 Follow Below Instructions:
 Download starter-code file:
 Then do npm install, npm install --save google-map-react, npm install --save react-chartjs-2,  &  npm start
