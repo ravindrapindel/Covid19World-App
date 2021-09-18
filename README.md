@@ -8,7 +8,7 @@ https://dreamy-mclean-71e738.netlify.app/
 
 Follow Below Instructions:
 Download starter-code file:
-Then do npm install, npm install --save google-map-react & npm start
+Then do npm install, npm install --save google-map-react, npm install --save react-chartjs-2,  &  npm start
 
 ## Available Scripts
 
