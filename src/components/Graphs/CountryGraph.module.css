@@ -1,0 +1,10 @@
+.Btn{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    color: beige;
+    background-color: #282c34;
+    padding-top: 10px;
+    font-size: 1.3rem;
+}

@@ -1,0 +1,69 @@
+.Heading {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 25px;
+    color: beige;
+    background-color: #282c34;
+}
+
+.Btn{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    color: beige;
+    background-color: #282c34;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.hide {
+    display: none;
+  }
+.myDIV{
+    font-size: 10px;
+   z-index: -10;
+}
+      
+.myDIV:hover + .hide {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    /* width: fit-content; */
+    width: max-content;
+    color:wheat;
+    background-color: rgb(0, 0, 0);
+    border-radius: 5px;
+    opacity: 1 !important;
+    font-size: 1rem;
+
+
+  }
+
+  .cases{
+      
+      z-index: 100;
+     
+  }
+.unit1{
+    position: absolute;
+    bottom: 60px;
+    right: 60px;
+    color: wheat;
+    font-size: large;
+    font-weight: 500;
+    z-index: 10;
+
+}
+.unit2{
+    position: absolute;
+    bottom: 85px;
+    right: 60px;
+    color: wheat;
+    font-size: large;
+    font-weight: 500;
+    z-index: 10;
+
+}
