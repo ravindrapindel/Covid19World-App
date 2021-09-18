@@ -2,7 +2,7 @@ import React, { useContext } from 'react';
 import GoogleMapReact from 'google-map-react';
 import DataContext from '../components/Context/Context';
 import classes from "./Mapes.module.css"
-import { useState } from 'react/cjs/react.development';
+import { useState } from 'react';
 
 function Mapes(props){
   // Data context To get covid datas
