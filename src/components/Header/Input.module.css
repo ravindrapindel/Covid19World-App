@@ -1,0 +1,34 @@
+.Input{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center ;
+    color: azure;
+}
+
+.Input input{
+    width: 250px;
+    height: 35px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+  .dropdown-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    background-color: white;
+    color:black;
+    overflow: auto;
+    width: 250px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    z-index: 1;
+  }
+  button{
+    display: flex;
+    justify-content: left;
+  }
+  button:hover{
+    background-color: gray;
+}
